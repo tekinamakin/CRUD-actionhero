@@ -16,7 +16,7 @@
     "actionhero": "^19.2.2",
     "ah-sequelize-plugin": "^1.2.0",
     "await-to-js": "^2.1.1",
-    "bcrypt": "^3.0.6",
+    "bcrypt": "^5.0.0",
     "fakeredis": "latest",
     "ioredis": "^4.14.0",
     "pg": "^7.12.1",
